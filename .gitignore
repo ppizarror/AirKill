@@ -1,0 +1,9 @@
+# Archivos de la compilación de pascal
+*.dp
+*.ow
+rsrc.o
+rsrc.rc
+
+# Archivos de dev-pas
+ppas.bat
+
